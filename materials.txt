@@ -1,0 +1,4 @@
+1. https://www.w3schools.com/python/python_intro.asp - Python
+2. https://github.com/python-telegram-bot/python-telegram-bot/wiki - python-telegram-bot
+3. https://www.w3schools.com/git/default.asp - Git and GitHub 
+4. 
