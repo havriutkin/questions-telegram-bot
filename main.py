@@ -27,6 +27,7 @@ Dependencies:
     
 Authors:
     - Vladyslav Havriutkin
+    - John Smith (He knows how to use branches!)
     - [Enter your name here]
 """
 
