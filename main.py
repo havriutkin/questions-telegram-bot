@@ -27,7 +27,6 @@ Dependencies:
     
 Authors:
     - Vladyslav Havriutkin
-    - Vladyslav Havriutkin (I used separate branch!!!)
     - [Enter your name here]
 """
 
