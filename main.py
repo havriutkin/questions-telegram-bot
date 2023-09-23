@@ -27,6 +27,7 @@ Dependencies:
     
 Authors:
     - Vladyslav Havriutkin
+    - John Smith
     - [Enter your name here]
 """
 
