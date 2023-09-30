@@ -28,7 +28,7 @@ Dependencies:
 Authors:
     - Vladyslav Havriutkin
     - John Smith
-    - [Enter your name here]
+    - Mykhailo Mykhonik
 """
 
 from telegram import Update
