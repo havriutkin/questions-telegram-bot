@@ -29,6 +29,7 @@ Authors:
     - Vladyslav Havriutkin
     - John Smith
     - Mykhailo Mykhonik
+    - Mykhailo Domnych
 """
 
 from telegram import Update
